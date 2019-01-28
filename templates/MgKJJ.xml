@@ -1,0 +1,22 @@
+<templateSet group="MgKJJ">
+  <template name="syso" value="System.out.println();" description="输出快捷键" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="main" value="public static void main(String[] args) {&#10;        &#10;}" description="main方法" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tryc" value="try{&#10;    &#10;}catch (Exception e) {&#10;    e.printStackTrace();&#10;    throw new RuntimeException(e);&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tryg" value="try{&#10;    return Result.success();&#10;}catch (Exception e) {&#10;    logger.error(Tips.EXCEPTION_TIPS,e);&#10;    return Result.error(e.getMessage());&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

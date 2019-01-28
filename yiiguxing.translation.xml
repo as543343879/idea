@@ -1,0 +1,62 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="decode" />
+      <item value="月" />
+      <item value="decrypted failed" />
+      <item value="在线" />
+      <item value="离线" />
+      <item value="Resolution" />
+      <item value="verbose" />
+      <item value="Initializes a newly created {@code String} object so that it represents * the same sequence of characters as the argument; in other words, the * newly created string is a copy of the argument string. Unless an * explicit copy of {@code original} is needed, use of this constructor is * unnecessary since Strings are immutable." />
+      <item value="Time unit representing one thousandth of a second" />
+      <item value="The table, initialized on first use, and resized as * necessary. When allocated, length is always a power of two. * (We also tolerate length zero in some operations to allow * bootstrapping mechanics that are currently not needed.)" />
+      <item value="Returns a power of two size for the given target capacity." />
+      <item value="evict if false, the table is in creation mode." />
+      <item value="onlyIfAbsent if true, don't change existing value" />
+      <item value="* @param hash hash for key * @param key the key * @param value the value to put * @param onlyIfAbsent if true, don't change existing value * @param evict if false, the table is in creation mode. * @return previous value, or null if none" />
+      <item value="* Returns a hash code value for the object. This method is * supported for the benefit of hash tables such as those provided by * {@link java.util.HashMap}. * &lt;p&gt; * The general contract of {@code hashCode} is: * &lt;ul&gt; * &lt;li&gt;Whenever it is invoked on the same object more than once during * an execution of a Java application, the {@code hashCode} method * must consistently return the same integer, provided no information * used in {@code equals} comparisons on the object is modified. * This integer need not remain consistent from one execution of an * application to another execution of the same application. * &lt;li&gt;If two objects are equal according to the {@code equals(Object)} * method, then calling the {@code hashCode} method on each of * the two objects must produce the same integer result. * &lt;li&gt;It is &lt;em&gt;not&lt;/em&gt; required that if two objects are unequal * according to the {@link java.lang.Object#equals(java.lang.Object)} * method, then calling the {@code hashCode} method on each of the * two objects must produce distinct integer results. However, the * programmer should be aware that producing distinct integer results * for unequal objects may improve the performance of hash tables. * &lt;/ul&gt; * &lt;p&gt; * As much as is reasonably practical, the hashCode method defined by * class {@code Object} does return distinct integers for distinct * objects. (This is typically implemented by converting the internal * address of the object into an integer, but this implementation * technique is not required by the * Java&amp;trade; programming language.)" />
+      <item value="* As much as is reasonably practical, the hashCode method defined by * class {@code Object} does return distinct integers for distinct * objects. (This is typically implemented by converting the internal * address of the object into an integer, but this implementation * technique is not required by the * Java&amp;trade; programming language.)" />
+      <item value="* The bin count threshold for using a tree rather than list for a * bin. Bins are converted to trees when adding an element to a * bin with at least this many nodes. The value must be greater * than 2 and should be at least 8 to mesh with assumptions in * tree removal about conversion back to plain bins upon * shrinkage." />
+      <item value="specified" />
+      <item value="* The maximum capacity, used if a higher value is implicitly specified * by either of the constructors with arguments. * MUST be a power of two &lt;= 1&lt;&lt;30." />
+      <item value="The default initial capacity - MUST be a power of two." />
+      <item value="* Because TreeNodes are about twice the size of regular nodes, we * use them only when bins contain enough nodes to warrant use * (see TREEIFY_THRESHOLD). And when they become too small (due to * removal or resizing) they are converted back to plain bins. In * usages with well-distributed user hashCodes, tree bins are * rarely used. Ideally, under random hashCodes, the frequency of * nodes in bins follows a Poisson distribution * (http://en.wikipedia.org/wiki/Poisson_distribution) with a * parameter of about 0.5 on average for the default resizing * threshold of 0.75, although with a large variance because of * resizing granularity. Ignoring variance, the expected * occurrences of list size k are (exp(-0.5) * pow(0.5, k) / * factorial(k)). The first values are:" />
+      <item value="* Tree bins (i.e., bins whose elements are all TreeNodes) are * ordered primarily by hashCode, but in the case of ties, if two * elements are of the same &quot;class C implements Comparable&lt;C&gt;&quot;, * type then their compareTo method is used for ordering. (We * conservatively check generic types via reflection to validate * this -- see method comparableClassFor). The added complexity * of tree bins is worthwhile in providing worst-case O(log n) * operations when keys either have distinct hashes or are * orderable, Thus, performance degrades gracefully under * accidental or malicious usages in which hashCode() methods * return values that are poorly distributed, as well as those in * which many keys share a hashCode, so long as they are also * Comparable. (If neither of these apply, we may waste about a * factor of two in time and space compared to taking no * precautions. But the only known cases stem from poor user * programming practices that are already so slow that this makes * little difference.)" />
+      <item value="* This map usually acts as a binned (bucketed) hash table, but * when bins get too large, they are transformed into bins of * TreeNodes, each structured similarly to those in * java.util.TreeMap. Most methods try to use normal bins, but * relay to TreeNode methods when applicable (simply by checking * instanceof a node). Bins of TreeNodes may be traversed and * used like any others, but additionally support faster lookup * when overpopulated. However, since the vast majority of bins in * normal use are not overpopulated, checking for existence of * tree bins may be delayed in the course of table methods." />
+      <item value="This map usually acts as a binned (bucketed) hash table, but * when bins get too large, they are transformed into bins of * TreeNodes, each structured similarly to those in * java.util.TreeMap. Most methods try to use normal bins, but * relay to TreeNode methods when applicable (simply by checking * instanceof a node). Bins of TreeNodes may be traversed and * used like any others, but additionally support faster lookup * when overpopulated. However, since the vast majority of bins in * normal use are not overpopulated, checking for existence of * tree bins may be delayed in the course of table methods. * * Tree bins (i.e., bins whose elements are all TreeNodes) are * ordered primarily by hashCode, but in the case of ties, if two * elements are of the same &quot;class C implements Comparable&lt;C&gt;&quot;, * type then their compareTo method is used for ordering. (We * conservatively check generic types via reflection to validate * this -- see method comparableClassFor). The added complexity * of tree bins is worthwhile in providing worst-case O(log n) * operations when keys either have distinct hashes or are * orderable, Thus, performance degrades gracefully under * accidental or malicious usages in which hashCode() methods * return values that are poorly distributed, as well as those in * which many keys share a hashCode, so long as they are also * Comparable. (If neither of these apply, we may waste about a * factor of two in time and space compared to taking no * precautions. But the only known cases stem from poor user * programming practices that are already so slow that this makes * little difference.) * * Because TreeNodes are about twice the size of regular nodes, we * use them only when bins contain enough nodes to warrant use * (see TREEIFY_THRESHOLD). And when they become too small (due to * removal or resizing) they are converted back to plain bins. In * usages with well-distributed user hashCodes, tree bins are * rarely used. Ideally, under random hashCodes, the frequency of * nodes in bins follows a Poisson distribution * (http://en.wikipedia.org/wiki/Poisson_distribution) with a * parameter of about 0.5 on average for the default resizing * threshold of 0.75, although with a large variance because of * resizing granularity. Ignoring variance, the expected * occurrences of list size k are (exp(-0.5) * pow(0.5, k) / * factorial(k)). The first values are:" />
+      <item value="* Hash table based implementation of the &lt;tt&gt;Map&lt;/tt&gt; interface. This * implementation provides all of the optional map operations, and permits * &lt;tt&gt;null&lt;/tt&gt; values and the &lt;tt&gt;null&lt;/tt&gt; key. (The &lt;tt&gt;HashMap&lt;/tt&gt; * class is roughly equivalent to &lt;tt&gt;Hashtable&lt;/tt&gt;, except that it is * unsynchronized and permits nulls.) This class makes no guarantees as to * the order of the map; in particular, it does not guarantee that the order * will remain constant over time." />
+      <item value="* Copyright (c) 1997, 2013, Oracle and/or its affiliates. All rights reserved. * ORACLE PROPRIETARY/CONFIDENTIAL. Use is subject to license terms." />
+      <item value="The bin count threshold for untreeifying a (split) bin during a * resize operation. Should be less than TREEIFY_THRESHOLD, and at * most 6 to mesh with shrinkage detection under removal." />
+      <item value="See Hackers Delight, sec 3.2" />
+      <item value="Returns a power of two table size for the given desired capacity." />
+      <item value="possible" />
+      <item value="The largest possible (non-power of two) array size. * Needed by toArray and related methods." />
+      <item value="The default initial table capacity. Must be a power of 2 * (i.e., at least 1) and at most MAXIMUM_CAPACITY." />
+      <item value="* The largest possible table capacity. This value must be * exactly 1&lt;&lt;30 to stay within Java array allocation and indexing * bounds for power of two table sizes, and is further required * because the top two bits of 32bit hash fields are used for * control purposes." />
+      <item value="* Key-value entry. This class is never exported out as a * user-mutable Map.Entry (i.e., one supporting setValue; see * MapEntry below), but can be used for read-only traversals used * in bulk tasks. Subclasses of Node with a negative hash field * are special, and contain null keys and values (but are never * exported). Otherwise, keys and vals are never null." />
+      <item value="the difference, measured in milliseconds, between" />
+      <item value="he difference, measured in milliseconds, between" />
+      <item value="his method may fail to clean up (close, dispose of) a stream, database object, or other resource requiring an explicit cleanup operation." />
+      <item value="Method may fail to clean up stream or resource on checked exception" />
+      <item value="This static field public but not final, and could be changed by malicious code or by accident from another package. The field could be made final to avoid this vulnerability." />
+      <item value="Field isn't final but should be" />
+      <item value="Reliance on default encoding Found a call to a method which will perform a byte to" />
+      <item value="Reliance on default encoding&#10;Found a call to a method which will perform a byte to" />
+      <item value="Method concatenates strings using + in a loop" />
+      <item value="volatile" />
+      <item value="Possible null pointer dereference" />
+      <item value="Transaction Status" />
+      <item value="Transaction Definition" />
+      <item value="Platform Transaction Manager" />
+      <item value="Dead store to local variable" />
+      <item value="Medium Confidence Dodgy code" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="51" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="show byte code" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Program Files\Java\jdk1.8.0_131\bin\javap.exe" />
+      <option name="PARAMETERS" value="-v $FileNameWithoutExtension$.class" />
+      <option name="WORKING_DIRECTORY" value="$OutputPath$/$FileDirRelativeToSourcepath$" />
+    </exec>
+  </tool>
+  <tool name="show byte code7" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Program Files\Java\jdk1.7.0_17\bin\javap.exe" />
+      <option name="PARAMETERS" value="-v $FileNameWithoutExtension$.class" />
+      <option name="WORKING_DIRECTORY" value="$OutputPath$/$FileDirRelativeToSourcepath$" />
+    </exec>
+  </tool>
+</toolSet>
