@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Slot" />
       <item value="Assignee" />
       <item value="task Assignee" />
       <item value="decode" />
@@ -50,12 +51,11 @@
       <item value="Possible null pointer dereference" />
       <item value="Transaction Status" />
       <item value="Transaction Definition" />
-      <item value="Platform Transaction Manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
       </map>
     </option>
   </component>
