@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="性别" />
+      <item value="出生" />
+      <item value="公民身份号码" />
+      <item value="住址" />
+      <item value="民族" />
+      <item value="姓名" />
+      <item value="签发日期" />
+      <item value="签发机关" />
+      <item value="expiration date" />
+      <item value="失效日期" />
       <item value="Certification" />
       <item value="concurrent" />
       <item value="Slot" />
@@ -41,21 +51,11 @@
       <item value="* The largest possible table capacity. This value must be * exactly 1&lt;&lt;30 to stay within Java array allocation and indexing * bounds for power of two table sizes, and is further required * because the top two bits of 32bit hash fields are used for * control purposes." />
       <item value="* Key-value entry. This class is never exported out as a * user-mutable Map.Entry (i.e., one supporting setValue; see * MapEntry below), but can be used for read-only traversals used * in bulk tasks. Subclasses of Node with a negative hash field * are special, and contain null keys and values (but are never * exported). Otherwise, keys and vals are never null." />
       <item value="the difference, measured in milliseconds, between" />
-      <item value="he difference, measured in milliseconds, between" />
-      <item value="his method may fail to clean up (close, dispose of) a stream, database object, or other resource requiring an explicit cleanup operation." />
-      <item value="Method may fail to clean up stream or resource on checked exception" />
-      <item value="This static field public but not final, and could be changed by malicious code or by accident from another package. The field could be made final to avoid this vulnerability." />
-      <item value="Field isn't final but should be" />
-      <item value="Reliance on default encoding Found a call to a method which will perform a byte to" />
-      <item value="Reliance on default encoding&#10;Found a call to a method which will perform a byte to" />
-      <item value="Method concatenates strings using + in a loop" />
-      <item value="volatile" />
-      <item value="Possible null pointer dereference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="66" />
       </map>
     </option>
   </component>
