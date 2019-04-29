@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Certification" />
       <item value="concurrent" />
       <item value="Slot" />
       <item value="Assignee" />
@@ -50,12 +51,11 @@
       <item value="Method concatenates strings using + in a loop" />
       <item value="volatile" />
       <item value="Possible null pointer dereference" />
-      <item value="Transaction Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
       </map>
     </option>
   </component>
