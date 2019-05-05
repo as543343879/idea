@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fields should not be publicly mutable" />
       <item value="性别" />
       <item value="出生" />
       <item value="公民身份号码" />
@@ -50,13 +51,29 @@
       <item value="The default initial table capacity. Must be a power of 2 * (i.e., at least 1) and at most MAXIMUM_CAPACITY." />
       <item value="* The largest possible table capacity. This value must be * exactly 1&lt;&lt;30 to stay within Java array allocation and indexing * bounds for power of two table sizes, and is further required * because the top two bits of 32bit hash fields are used for * control purposes." />
       <item value="* Key-value entry. This class is never exported out as a * user-mutable Map.Entry (i.e., one supporting setValue; see * MapEntry below), but can be used for read-only traversals used * in bulk tasks. Subclasses of Node with a negative hash field * are special, and contain null keys and values (but are never * exported). Otherwise, keys and vals are never null." />
-      <item value="the difference, measured in milliseconds, between" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="66" />
         <entry key="ENGLISH" value="66" />
       </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="primaryLanguage" value="CHINESE" />
+      </app-key>
+    </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="primaryLanguage" value="AUTO" />
+      </youdao-translate>
     </option>
   </component>
 </application>
