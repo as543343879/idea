@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain." />
+      <item value="Cognitive Complexity of methods should not be too high" />
+      <item value="Utility classes, which are collections of static members, are not meant to be instantiated. Even abstract utility classes, which can be extended, should not have public constructors. Java adds an implicit public constructor to every class which does not define at" />
+      <item value="Utility classes, which are collections of static members, are not meant to be instantiated. Even abstract utility classes, which can be extended, should not have public constructors.&#10;Java adds an implicit public constructor to every class which does not define at" />
+      <item value="Modifiers should be declared in the correct order" />
       <item value="fields should not be publicly mutable" />
       <item value="性别" />
       <item value="出生" />
@@ -46,11 +51,6 @@
       <item value="The bin count threshold for untreeifying a (split) bin during a * resize operation. Should be less than TREEIFY_THRESHOLD, and at * most 6 to mesh with shrinkage detection under removal." />
       <item value="See Hackers Delight, sec 3.2" />
       <item value="Returns a power of two table size for the given desired capacity." />
-      <item value="possible" />
-      <item value="The largest possible (non-power of two) array size. * Needed by toArray and related methods." />
-      <item value="The default initial table capacity. Must be a power of 2 * (i.e., at least 1) and at most MAXIMUM_CAPACITY." />
-      <item value="* The largest possible table capacity. This value must be * exactly 1&lt;&lt;30 to stay within Java array allocation and indexing * bounds for power of two table sizes, and is further required * because the top two bits of 32bit hash fields are used for * control purposes." />
-      <item value="* Key-value entry. This class is never exported out as a * user-mutable Map.Entry (i.e., one supporting setValue; see * MapEntry below), but can be used for read-only traversals used * in bulk tasks. Subclasses of Node with a negative hash field * are special, and contain null keys and values (but are never * exported). Otherwise, keys and vals are never null." />
     </histories>
     <option name="languageScores">
       <map>
