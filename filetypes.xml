@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="12" type="PLAIN_TEXT" />
       <mapping pattern="warnType" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
