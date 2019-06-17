@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Method [download] was discovered in the .class file but cannot be resolved in the class object" />
       <item value="永久" />
       <item value="different" />
       <item value="Ignoring onDemand update due to rate limiter" />
@@ -50,12 +51,11 @@
       <item value="* @param hash hash for key * @param key the key * @param value the value to put * @param onlyIfAbsent if true, don't change existing value * @param evict if false, the table is in creation mode. * @return previous value, or null if none" />
       <item value="* Returns a hash code value for the object. This method is * supported for the benefit of hash tables such as those provided by * {@link java.util.HashMap}. * &lt;p&gt; * The general contract of {@code hashCode} is: * &lt;ul&gt; * &lt;li&gt;Whenever it is invoked on the same object more than once during * an execution of a Java application, the {@code hashCode} method * must consistently return the same integer, provided no information * used in {@code equals} comparisons on the object is modified. * This integer need not remain consistent from one execution of an * application to another execution of the same application. * &lt;li&gt;If two objects are equal according to the {@code equals(Object)} * method, then calling the {@code hashCode} method on each of * the two objects must produce the same integer result. * &lt;li&gt;It is &lt;em&gt;not&lt;/em&gt; required that if two objects are unequal * according to the {@link java.lang.Object#equals(java.lang.Object)} * method, then calling the {@code hashCode} method on each of the * two objects must produce distinct integer results. However, the * programmer should be aware that producing distinct integer results * for unequal objects may improve the performance of hash tables. * &lt;/ul&gt; * &lt;p&gt; * As much as is reasonably practical, the hashCode method defined by * class {@code Object} does return distinct integers for distinct * objects. (This is typically implemented by converting the internal * address of the object into an integer, but this implementation * technique is not required by the * Java&amp;trade; programming language.)" />
       <item value="* As much as is reasonably practical, the hashCode method defined by * class {@code Object} does return distinct integers for distinct * objects. (This is typically implemented by converting the internal * address of the object into an integer, but this implementation * technique is not required by the * Java&amp;trade; programming language.)" />
-      <item value="* The bin count threshold for using a tree rather than list for a * bin. Bins are converted to trees when adding an element to a * bin with at least this many nodes. The value must be greater * than 2 and should be at least 8 to mesh with assumptions in * tree removal about conversion back to plain bins upon * shrinkage." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="ENGLISH" value="79" />
       </map>
     </option>
   </component>
