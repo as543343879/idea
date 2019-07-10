@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specific" />
+      <item value="Specif" />
+      <item value="image" />
+      <item value="Create" />
+      <item value="String" />
+      <item value="Raster" />
+      <item value="Compliance" />
       <item value="o change body of generated methods, choose Tools | Templates." />
       <item value="Could not read JSON: Can not construct instance of org.springframework.social.connect.ConnectionData: no suitable constructor found, can not deserialize from Object value (missing default constructor or creator, or perhaps need to add/enable type information?)" />
       <item value="Method [download] was discovered in the .class file but cannot be resolved in the class object" />
@@ -44,18 +51,11 @@
       <item value="离线" />
       <item value="Resolution" />
       <item value="verbose" />
-      <item value="Initializes a newly created {@code String} object so that it represents * the same sequence of characters as the argument; in other words, the * newly created string is a copy of the argument string. Unless an * explicit copy of {@code original} is needed, use of this constructor is * unnecessary since Strings are immutable." />
-      <item value="Time unit representing one thousandth of a second" />
-      <item value="The table, initialized on first use, and resized as * necessary. When allocated, length is always a power of two. * (We also tolerate length zero in some operations to allow * bootstrapping mechanics that are currently not needed.)" />
-      <item value="Returns a power of two size for the given target capacity." />
-      <item value="evict if false, the table is in creation mode." />
-      <item value="onlyIfAbsent if true, don't change existing value" />
-      <item value="* @param hash hash for key * @param key the key * @param value the value to put * @param onlyIfAbsent if true, don't change existing value * @param evict if false, the table is in creation mode. * @return previous value, or null if none" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="84" />
+        <entry key="ENGLISH" value="85" />
       </map>
     </option>
   </component>
