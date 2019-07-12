@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="o Scaling" />
       <item value="is No Scaling" />
       <item value="Get the layers in an instance of CadLayersDictionary." />
       <item value="Set the drawing to render at the center of image" />
@@ -50,12 +51,12 @@
       <item value="性别" />
       <item value="出生" />
       <item value="公民身份号码" />
-      <item value="住址" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
+        <entry key="CHINESE" value="99" />
         <entry key="ENGLISH" value="99" />
+        <entry key="FILIPINO" value="2" />
       </map>
     </option>
   </component>
