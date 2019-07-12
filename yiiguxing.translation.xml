@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Arrow Anchor" />
+      <item value="Anchor Mask" />
+      <item value="Custom" />
+      <item value="Round Anchor" />
+      <item value="If user doesn't use PenOptions, system will use its own default pens (different in defferent places)." />
+      <item value="f user doesn't use PenOptions, system will use its own default pens (different in defferent places)." />
+      <item value="Here user can change default start cap and end cap of pens when exporting CadImage object to" />
+      <item value="Triangle" />
+      <item value="Round" />
+      <item value="Square" />
+      <item value="Flat" />
+      <item value="// Here user can change default start cap and end cap of pens when exporting CadImage object to // image. It can be using for all image formats: pdf, png, bmp, gif, jpeg2000, jpeg, psd, tiff, wmf. // If user doesn't use PenOptions, system will use its own default pens (different in defferent places)." />
       <item value="Shape" />
       <item value="hape" />
       <item value="Vetexes" />
@@ -39,23 +51,11 @@
       <item value="民族" />
       <item value="姓名" />
       <item value="签发日期" />
-      <item value="签发机关" />
-      <item value="expiration date" />
-      <item value="失效日期" />
-      <item value="Certification" />
-      <item value="concurrent" />
-      <item value="Slot" />
-      <item value="Assignee" />
-      <item value="task Assignee" />
-      <item value="decode" />
-      <item value="月" />
-      <item value="decrypted failed" />
-      <item value="在线" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="96" />
       </map>
     </option>
   </component>
