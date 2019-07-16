@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Seconds" />
       <item value="SECONDS" />
       <item value="o Scaling" />
       <item value="is No Scaling" />
@@ -35,7 +36,6 @@
       <item value="different" />
       <item value="Ignoring onDemand update due to rate limiter" />
       <item value="Saw local status change event StatusChangeEvent" />
-      <item value="Seconds" />
       <item value="Cannot determine embedded database driver class for database type NONE" />
       <item value="permit All" />
       <item value="Renew" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="101" />
         <entry key="FILIPINO" value="2" />
       </map>
     </option>
