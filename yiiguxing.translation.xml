@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Null pointer dereference of user" />
+      <item value="May expose internal representation by returning reference to mutable object" />
+      <item value="getUpdateTime() may expose internal representation by returning PcUscUser.updateTime" />
+      <item value="Timestamp" />
       <item value="TERMINATED" />
       <item value="Daemon" />
       <item value="备注信息" />
@@ -47,15 +51,11 @@
       <item value="authenticated" />
       <item value="excludes" />
       <item value="ndicates whether the user is enabled or disabled. A disabled user cannot be" />
-      <item value="Invoked by a BeanFactory after it has set all bean properties supplied * (and satisfied BeanFactoryAware and ApplicationContextAware). * &lt;p&gt;This method allows the bean instance to perform initialization only * possible when all bean properties have been set and to throw an * exception in the event of misconfiguration. * @throws Exception in the event of misconfiguration (such * as failure to set an essential property) or if initialization fails." />
-      <item value="Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain." />
-      <item value="Cognitive Complexity of methods should not be too high" />
-      <item value="Utility classes, which are collections of static members, are not meant to be instantiated. Even abstract utility classes, which can be extended, should not have public constructors. Java adds an implicit public constructor to every class which does not define at" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="105" />
-        <entry key="ENGLISH" value="106" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="107" />
         <entry key="FILIPINO" value="2" />
       </map>
     </option>
