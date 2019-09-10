@@ -1,0 +1,10 @@
+<templateSet group="methodss">
+  <template name="showdoc" value="/**&#10; * showdoc&#10; * @catalog 一级目录/二级目录/三级目录&#10; * @title 接口标题&#10; * @description 简要描述&#10; * @method GET/POST&#10; * @url /api/Consumer$controllerName$/$methodName$ &#10;$params$ &#10; * @return 返回内容。请把返回内容压缩在同一行内。如果是json，程序会自动进行格式化展示。 如果是非json内容，则原样展示。&#10; * @return_param ok boolean true表示成功，false表示失败&#10; * @return_param code boolean 结果状态码&#10; * @return_param message boolean 结果信息&#10; * @return_param data json 结果集，菜单信息&#10; * @return_param&#10; * @return_param data. int 说明&#10; * @remark 接口备注&#10; */" shortcut="ENTER" description="showdoc" toReformat="false" toShortenFQNames="true">
+    <variable name="controllerName" expression="groovyScript(&quot;def result=\&quot;${_1}\&quot;.replaceAll('Controller', ''); return result&quot;, className())；" defaultValue="" alwaysStopAt="true" />
+    <variable name="methodName" expression="methodName();" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+=' * @param ' + params[i] + ((i &lt; params.size() - 1) ? ' 是否必选 参数类型(string) 参数说明\\r\\n' : ' 是否必选 参数类型(string) 参数说明')}; return result&quot;, methodParameters())；" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
