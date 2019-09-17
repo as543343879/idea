@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Concurrent" />
       <item value="Concurrent Hash Map" />
+      <item value="Concurrent" />
       <item value="Bounded" />
       <item value="Null pointer dereference of user" />
       <item value="May expose internal representation by returning reference to mutable object" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="113" />
         <entry key="FILIPINO" value="2" />
       </map>
     </option>
