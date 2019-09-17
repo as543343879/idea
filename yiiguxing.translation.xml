@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Concurrent" />
+      <item value="Concurrent Hash Map" />
       <item value="Bounded" />
       <item value="Null pointer dereference of user" />
       <item value="May expose internal representation by returning reference to mutable object" />
@@ -49,13 +51,11 @@
       <item value="Cannot determine embedded database driver class for database type NONE" />
       <item value="permit All" />
       <item value="Renew" />
-      <item value="authenticated" />
-      <item value="excludes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="FILIPINO" value="2" />
       </map>
     </option>
