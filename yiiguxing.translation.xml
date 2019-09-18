@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A String containing the resulting Base64 encoded characters" />
+      <item value="encode" />
+      <item value="Encoder" />
       <item value="Concurrent Hash Map" />
       <item value="Concurrent" />
       <item value="Bounded" />
@@ -48,14 +51,11 @@
       <item value="different" />
       <item value="Ignoring onDemand update due to rate limiter" />
       <item value="Saw local status change event StatusChangeEvent" />
-      <item value="Cannot determine embedded database driver class for database type NONE" />
-      <item value="permit All" />
-      <item value="Renew" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="FILIPINO" value="2" />
       </map>
     </option>
