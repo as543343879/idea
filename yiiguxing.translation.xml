@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="milliseconds" />
       <item value="环境" />
       <item value="A String containing the resulting Base64 encoded characters" />
       <item value="encode" />
@@ -50,12 +51,11 @@
       <item value="Method [download] was discovered in the .class file but cannot be resolved in the class object" />
       <item value="永久" />
       <item value="different" />
-      <item value="Ignoring onDemand update due to rate limiter" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="ENGLISH" value="117" />
         <entry key="FILIPINO" value="2" />
       </map>
     </option>
