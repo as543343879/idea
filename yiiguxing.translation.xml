@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="间隔" />
       <item value="offer" />
       <item value="MILLISECONDS" />
       <item value="milliseconds" />
@@ -50,31 +51,13 @@
       <item value="Compliance" />
       <item value="o change body of generated methods, choose Tools | Templates." />
       <item value="Could not read JSON: Can not construct instance of org.springframework.social.connect.ConnectionData: no suitable constructor found, can not deserialize from Object value (missing default constructor or creator, or perhaps need to add/enable type information?)" />
-      <item value="Method [download] was discovered in the .class file but cannot be resolved in the class object" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="120" />
         <entry key="FILIPINO" value="2" />
       </map>
-    </option>
-  </component>
-  <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="primaryLanguage" value="CHINESE" />
-      </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="primaryLanguage" value="AUTO" />
-      </youdao-translate>
     </option>
   </component>
 </application>
