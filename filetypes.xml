@@ -9,6 +9,7 @@
       <mapping pattern="12" type="PLAIN_TEXT" />
       <mapping pattern="warnType" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="java___jb_tmp___" type="PLAIN_TEXT" />
       <mapping ext="filter" type="PLAIN_TEXT" />
