@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compression" />
+      <item value="压缩" />
       <item value="modify" />
       <item value="file offset" />
       <item value="dept Name" />
@@ -49,13 +51,11 @@
       <item value="Shape" />
       <item value="hape" />
       <item value="Vetexes" />
-      <item value="Specific" />
-      <item value="Specif" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="126" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="CHINESE" value="127" />
+        <entry key="ENGLISH" value="128" />
         <entry key="FILIPINO" value="2" />
       </map>
     </option>
