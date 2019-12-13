@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="low" />
+      <item value="toggle" />
       <item value="get Encoder" />
       <item value="compression" />
       <item value="压缩" />
@@ -49,13 +51,11 @@
       <item value="Square" />
       <item value="Flat" />
       <item value="// Here user can change default start cap and end cap of pens when exporting CadImage object to // image. It can be using for all image formats: pdf, png, bmp, gif, jpeg2000, jpeg, psd, tiff, wmf. // If user doesn't use PenOptions, system will use its own default pens (different in defferent places)." />
-      <item value="Shape" />
-      <item value="hape" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="131" />
         <entry key="FILIPINO" value="2" />
       </map>
     </option>
