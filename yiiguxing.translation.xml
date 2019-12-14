@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MILLISECONDS" />
       <item value="auto Delete" />
       <item value="exclusive" />
       <item value="durable" />
@@ -18,7 +19,6 @@
       <item value="poll" />
       <item value="间隔" />
       <item value="offer" />
-      <item value="MILLISECONDS" />
       <item value="milliseconds" />
       <item value="环境" />
       <item value="A String containing the resulting Base64 encoded characters" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="ENGLISH" value="134" />
         <entry key="FILIPINO" value="2" />
         <entry key="GREEK" value="1" />
       </map>
