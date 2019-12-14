@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="reate a gpio control trigger on the input pin ; when the input goes HIGH, also set gpio pin #04 to HIGH" />
-      <item value="create a gpio control trigger on the input pin ; when the input goes HIGH, also set gpio pin #04 to HIGH" />
+      <item value="TRIGGER CALLBACK RECEIVED" />
       <item value="display pin state on console" />
       <item value="create and register gpio pin listener" />
+      <item value="// create a gpio callback trigger on gpio pin#4; when #4 changes state, perform a callback // invocation on the user defined 'Callable' class instance" />
+      <item value="create a gpio synchronization trigger on the input pin; when the input changes, also set gpio pin #05 to same state" />
+      <item value="create a gpio pulse trigger on the input pin; when the input goes HIGH, also pulse gpio pin #06 to the HIGH state for 1 second" />
+      <item value="reate a gpio control trigger on the input pin ; when the input goes HIGH, also set gpio pin #04 to HIGH" />
+      <item value="create a gpio control trigger on the input pin ; when the input goes HIGH, also set gpio pin #04 to HIGH" />
       <item value="set shutdown state for this input pin" />
       <item value="provision gpio pin #02 as an input pin with its internal pull down resistor enabled" />
       <item value="MILLISECONDS" />
@@ -47,15 +51,11 @@
       <item value="o Scaling" />
       <item value="is No Scaling" />
       <item value="Get the layers in an instance of CadLayersDictionary." />
-      <item value="Set the drawing to render at the center of image" />
-      <item value="Arrow Anchor" />
-      <item value="Anchor Mask" />
-      <item value="Custom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="CHINESE" value="145" />
+        <entry key="ENGLISH" value="146" />
         <entry key="FILIPINO" value="2" />
         <entry key="GREEK" value="1" />
       </map>
