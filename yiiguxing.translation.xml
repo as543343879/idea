@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="REJECTION TIME" />
+      <item value="rejection start" />
       <item value="TRIGGER CALLBACK RECEIVED" />
       <item value="display pin state on console" />
       <item value="create and register gpio pin listener" />
@@ -49,13 +51,11 @@
       <item value="Allocation Failure" />
       <item value="SECONDS" />
       <item value="o Scaling" />
-      <item value="is No Scaling" />
-      <item value="Get the layers in an instance of CadLayersDictionary." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="148" />
         <entry key="FILIPINO" value="2" />
         <entry key="GREEK" value="1" />
       </map>
