@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="produced signal would looks like, _|-----|" />
+      <item value="his will generate 8 cycle sonic burst." />
+      <item value="tart ranging- trig should be in high state for 10us to generate ultrasonic signal" />
       <item value="REJECTION TIME" />
       <item value="rejection start" />
       <item value="TRIGGER CALLBACK RECEIVED" />
@@ -48,14 +51,11 @@
       <item value="备注信息" />
       <item value="Seconds" />
       <item value="promotion failed" />
-      <item value="Allocation Failure" />
-      <item value="SECONDS" />
-      <item value="o Scaling" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="151" />
         <entry key="FILIPINO" value="2" />
         <entry key="GREEK" value="1" />
       </map>
