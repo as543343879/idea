@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="height" />
       <item value="MINUTES" />
       <item value="available: more than one 'primary' bean found among candidates:" />
       <item value="produced signal would looks like, _|-----|" />
@@ -50,12 +51,11 @@
       <item value="Timestamp" />
       <item value="TERMINATED" />
       <item value="Daemon" />
-      <item value="备注信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="FILIPINO" value="2" />
         <entry key="GREEK" value="1" />
       </map>
