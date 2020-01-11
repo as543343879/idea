@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="millis" />
       <item value="SECONDS" />
       <item value="model 3B may return &quot;/dev/ttyS0&quot; or &quot;/dev/ttyAMA0&quot; depending on // environment configuration." />
       <item value="* This example program supports the following optional command arguments/options: * &quot;--device (device-path)&quot; [DEFAULT: /dev/ttyAMA0] * &quot;--baud (baud-rate)&quot; [DEFAULT: 38400] * &quot;--data-bits (5|6|7|8)&quot; [DEFAULT: 8] * &quot;--parity (none|odd|even)&quot; [DEFAULT: none] * &quot;--stop-bits (1|2)&quot; [DEFAULT: 1] * &quot;--flow-control (none|hardware|software)&quot; [DEFAULT: none]" />
@@ -50,14 +51,14 @@
       <item value="Concurrent Hash Map" />
       <item value="Concurrent" />
       <item value="Bounded" />
-      <item value="Null pointer dereference of user" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
+        <entry key="CHINESE" value="161" />
         <entry key="ENGLISH" value="161" />
         <entry key="FILIPINO" value="2" />
         <entry key="GREEK" value="1" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
