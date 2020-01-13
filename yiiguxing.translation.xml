@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="常量" />
       <item value="expire" />
       <item value="lease Time" />
       <item value="millis" />
@@ -50,11 +51,10 @@
       <item value="A String containing the resulting Base64 encoded characters" />
       <item value="encode" />
       <item value="Encoder" />
-      <item value="Concurrent Hash Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
+        <entry key="CHINESE" value="163" />
         <entry key="ENGLISH" value="163" />
         <entry key="FILIPINO" value="2" />
         <entry key="GREEK" value="1" />
