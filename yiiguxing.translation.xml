@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* 8-bit unsigned value. The Sample Rate is determined by dividing the * gyroscope output rate by this value." />
+      <item value="//7 Configure low power operations" />
+      <item value="//6 Configure interrupts" />
+      <item value="//5 Configure Accelerometer" />
+      <item value="4 Configure Gyroscope" />
+      <item value="Setting global config" />
+      <item value="Configure sample rate" />
+      <item value="Waking up device" />
       <item value="常量" />
       <item value="expire" />
       <item value="lease Time" />
@@ -43,19 +51,11 @@
       <item value="dept Name" />
       <item value="ReasonPhrase: Unauthorized." />
       <item value="Unsatisfied dependency expressed through field 'jdbcTemplate'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.jdbc.core.JdbcTemplate' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
-      <item value="Decoder" />
-      <item value="poll" />
-      <item value="间隔" />
-      <item value="offer" />
-      <item value="环境" />
-      <item value="A String containing the resulting Base64 encoded characters" />
-      <item value="encode" />
-      <item value="Encoder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="171" />
         <entry key="FILIPINO" value="2" />
         <entry key="GREEK" value="1" />
         <entry key="INDONESIAN" value="1" />
