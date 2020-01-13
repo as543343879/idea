@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="calibrate Sensors" />
       <item value="Stores the most recent temperature sensor" />
       <item value="Just wakes the device up, because it sets the sleep bit to 0. Also sets * the clock source to internal." />
       <item value="Bit 4 is reserved. Parameters: DEVICE_RESET SLEEP CYCLE TEMP_DIS CLKSEL * When set to 1, this bit resets all internal registers to their default * values. The bit automatically clears to 0 once the reset is done. The * default values for each register can be found in Section 3. When set to * 1, this bit puts the MPU-60X0 into sleep mode. When this bit is set to 1 * and SLEEP is disabled, the MPU-60X0 will cycle between sleep mode and * waking up to take a single sample of data from active sensors at a rate * determined by LP_WAKE_CTRL (register 108). When set to 1, this bit * disables the temperature sensor. 3-bit unsigned value. Specifies the * clock source of the device." />
@@ -50,12 +51,11 @@
       <item value="set shutdown state for this input pin" />
       <item value="provision gpio pin #02 as an input pin with its internal pull down resistor enabled" />
       <item value="MILLISECONDS" />
-      <item value="auto Delete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="CHINESE" value="185" />
+        <entry key="ENGLISH" value="187" />
         <entry key="FILIPINO" value="2" />
         <entry key="GREEK" value="1" />
         <entry key="INDONESIAN" value="1" />
