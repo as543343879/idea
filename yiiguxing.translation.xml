@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Just wakes the device up, because it sets the sleep bit to 0. Also sets * the clock source to internal." />
+      <item value="Bit 4 is reserved. Parameters: DEVICE_RESET SLEEP CYCLE TEMP_DIS CLKSEL * When set to 1, this bit resets all internal registers to their default * values. The bit automatically clears to 0 once the reset is done. The * default values for each register can be found in Section 3. When set to * 1, this bit puts the MPU-60X0 into sleep mode. When this bit is set to 1 * and SLEEP is disabled, the MPU-60X0 will cycle between sleep mode and * waking up to take a single sample of data from active sensors at a rate * determined by LP_WAKE_CTRL (register 108). When set to 1, this bit * disables the temperature sensor. 3-bit unsigned value. Specifies the * clock source of the device." />
+      <item value="Sets the full scale range of the gyroscopes to ± 2000 °/s" />
+      <item value="accelerometer" />
+      <item value="axis" />
       <item value="complement value. Stores the most recent X axis accelerometer" />
       <item value="* 16-bit 2’s complement value. Stores the most recent X axis accelerometer * measurement." />
       <item value="Gyroscope" />
@@ -46,16 +51,11 @@
       <item value="MILLISECONDS" />
       <item value="auto Delete" />
       <item value="exclusive" />
-      <item value="durable" />
-      <item value="low" />
-      <item value="toggle" />
-      <item value="get Encoder" />
-      <item value="compression" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="176" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="CHINESE" value="183" />
+        <entry key="ENGLISH" value="185" />
         <entry key="FILIPINO" value="2" />
         <entry key="GREEK" value="1" />
         <entry key="INDONESIAN" value="1" />
