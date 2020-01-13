@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Bit 4 is reserved. Parameters: DEVICE_RESET SLEEP CYCLE TEMP_DIS CLKSEL * When set to 1, this bit resets all internal registers to their default * values. The bit automatically clears to 0 once the reset is done. The * default values for each register can be found in Section 3. When set to * 1, this bit puts the MPU-60X0 into sleep mode. When this bit is set to 1 * and SLEEP is disabled, the MPU-60X0 will cycle between sleep mode and * waking up to take a single sample of data from active sensors at a rate * determined by LP_WAKE_CTRL (register 108). When set to 1, this bit * disables the temperature sensor. 3-bit unsigned value. Specifies the * clock source of the device." />
       <item value="* 8-bit unsigned value. The Sample Rate is determined by dividing the * gyroscope output rate by this value." />
       <item value="//7 Configure low power operations" />
       <item value="//6 Configure interrupts" />
@@ -50,12 +51,11 @@
       <item value="file offset" />
       <item value="dept Name" />
       <item value="ReasonPhrase: Unauthorized." />
-      <item value="Unsatisfied dependency expressed through field 'jdbcTemplate'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.jdbc.core.JdbcTemplate' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="170" />
-        <entry key="ENGLISH" value="171" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="173" />
         <entry key="FILIPINO" value="2" />
         <entry key="GREEK" value="1" />
         <entry key="INDONESIAN" value="1" />
