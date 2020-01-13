@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/Pi4J/pi4j.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/recallcode/iot-mqtt-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\代码\java" />
