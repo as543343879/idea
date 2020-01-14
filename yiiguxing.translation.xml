@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="温度" />
+      <item value="PRECISION" />
+      <item value="2's complement signed" />
+      <item value="complement signed" />
       <item value="calibrate Sensors" />
       <item value="Stores the most recent temperature sensor" />
       <item value="Just wakes the device up, because it sets the sleep bit to 0. Also sets * the clock source to internal." />
@@ -47,15 +51,11 @@
       <item value="create a gpio synchronization trigger on the input pin; when the input changes, also set gpio pin #05 to same state" />
       <item value="create a gpio pulse trigger on the input pin; when the input goes HIGH, also pulse gpio pin #06 to the HIGH state for 1 second" />
       <item value="reate a gpio control trigger on the input pin ; when the input goes HIGH, also set gpio pin #04 to HIGH" />
-      <item value="create a gpio control trigger on the input pin ; when the input goes HIGH, also set gpio pin #04 to HIGH" />
-      <item value="set shutdown state for this input pin" />
-      <item value="provision gpio pin #02 as an input pin with its internal pull down resistor enabled" />
-      <item value="MILLISECONDS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="187" />
+        <entry key="CHINESE" value="190" />
+        <entry key="ENGLISH" value="191" />
         <entry key="FILIPINO" value="2" />
         <entry key="GREEK" value="1" />
         <entry key="INDONESIAN" value="1" />
