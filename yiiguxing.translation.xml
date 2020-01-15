@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add Time" />
       <item value="SECONDS" />
       <item value="or acc-rate and 8kHz for gyr-rate." />
       <item value="e concrete value 0 leaves the sample rate on default, which means 1kHz" />
@@ -50,12 +51,11 @@
       <item value="TRIGGER CALLBACK RECEIVED" />
       <item value="display pin state on console" />
       <item value="create and register gpio pin listener" />
-      <item value="// create a gpio callback trigger on gpio pin#4; when #4 changes state, perform a callback // invocation on the user defined 'Callable' class instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="CHINESE" value="197" />
+        <entry key="ENGLISH" value="198" />
         <entry key="FILIPINO" value="2" />
         <entry key="GREEK" value="1" />
         <entry key="INDONESIAN" value="1" />
