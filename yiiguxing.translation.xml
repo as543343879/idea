@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Resistance" />
       <item value="Disabling interrupts" />
       <item value="Setting accelerometer sensitivity to ± 16g" />
       <item value="add Time" />
@@ -50,12 +51,11 @@
       <item value="tart ranging- trig should be in high state for 10us to generate ultrasonic signal" />
       <item value="REJECTION TIME" />
       <item value="rejection start" />
-      <item value="TRIGGER CALLBACK RECEIVED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="CHINESE" value="201" />
+        <entry key="ENGLISH" value="202" />
         <entry key="FILIPINO" value="2" />
         <entry key="GREEK" value="1" />
         <entry key="INDONESIAN" value="1" />
