@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TREEIFY THRESHOLD" />
       <item value="millis" />
       <item value="Table of counter cells. When non-null, size is a power of 2." />
       <item value="flow" />
@@ -50,12 +51,11 @@
       <item value="* This example program supports the following optional command arguments/options: * &quot;--device (device-path)&quot; [DEFAULT: /dev/ttyAMA0] * &quot;--baud (baud-rate)&quot; [DEFAULT: 38400] * &quot;--data-bits (5|6|7|8)&quot; [DEFAULT: 8] * &quot;--parity (none|odd|even)&quot; [DEFAULT: none] * &quot;--stop-bits (1|2)&quot; [DEFAULT: 1] * &quot;--flow-control (none|hardware|software)&quot; [DEFAULT: none]" />
       <item value="nano Time" />
       <item value="nanoseconds" />
-      <item value="milliseconds" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="ENGLISH" value="210" />
         <entry key="FILIPINO" value="2" />
         <entry key="GREEK" value="1" />
         <entry key="INDONESIAN" value="2" />
