@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="type (and possibly null) check" />
       <item value="voltage" />
       <item value="volatile" />
       <item value="电压" />
@@ -50,12 +51,11 @@
       <item value="Configure sample rate" />
       <item value="Waking up device" />
       <item value="常量" />
-      <item value="expire" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="FILIPINO" value="2" />
         <entry key="GREEK" value="1" />
         <entry key="INDONESIAN" value="2" />
