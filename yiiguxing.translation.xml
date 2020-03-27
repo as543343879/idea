@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The kc argument caches comparableClassFor(key) upon first use" />
+      <item value="Finds the node starting at root p with the given hash and key." />
+      <item value="Returns root of tree containing this node." />
       <item value="type (and possibly null) check" />
       <item value="voltage" />
       <item value="volatile" />
@@ -48,14 +51,11 @@
       <item value="//5 Configure Accelerometer" />
       <item value="4 Configure Gyroscope" />
       <item value="Setting global config" />
-      <item value="Configure sample rate" />
-      <item value="Waking up device" />
-      <item value="常量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="220" />
         <entry key="FILIPINO" value="2" />
         <entry key="GREEK" value="1" />
         <entry key="INDONESIAN" value="2" />
